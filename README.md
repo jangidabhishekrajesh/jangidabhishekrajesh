@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jangidabhishekrajesh
-- 👀 I’m interested in cricket
+- 👀 I’m interested in frontend developement
 - 🌱 I’m currently learning Php & NodeJs
 - 💞️ I’m looking to collaborate on Frontend developement
 - 📫 dm me on instagram @abhishekjangid._
