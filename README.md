@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jangidabhishekrajesh
 - 👀 I’m interested in frontend developement
-- 🌱 I’m currently learning Php & NodeJs
-- 💞️ I’m looking to collaborate on Frontend developement
+- 🌱 Php & MERN
+- 💞️ I’m looking to collaborate on Product developement
 - 📫 dm me on instagram @abhishekjangid._
 
 <!---
