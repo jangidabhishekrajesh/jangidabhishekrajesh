@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jangidabhishekrajesh
-- 👀 I’m interested in frontend developement
-- 🌱 Php & MERN
+- 👀 MERN Stack
+- 🌱 Talks about product development and product design
 - 💞️ I’m looking to collaborate on Product developement
-- 📫 dm me on instagram @abhishekjangid._
+- 📫 dm me on instagram @abhishekjangid.in
 
 <!---
 jangidabhishekrajesh/jangidabhishekrajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
