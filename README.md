@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jangidabhishekrajesh
-- 👀 MERN Stack
+- 👀 4+ Years hands on experience on MERN
 - 🌱 Talks about product development and product design
 - 💞️ I’m looking to collaborate on Product developement
 - 📫 dm me on instagram @abhishekjangid.in
